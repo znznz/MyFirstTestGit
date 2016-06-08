@@ -34,7 +34,7 @@
  *  Author(s): Philip Lamb
  *
  */
-
+ //C4444444444444444444444444444444444444
 package org.artoolkit.ar.base.camera;
 
 import android.annotation.TargetApi;
